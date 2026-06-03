@@ -320,5 +320,3 @@ MIT License - Free for personal and commercial use
 ---
 
 **Made with ❤️ by Akshat**
-
-*"Intelligent lead orchestration, one message at a time."*
